@@ -1,0 +1,12 @@
+.card-body {
+  background-color: #fff0ee;
+  padding: 1.5rem 1rem 1.5rem 1rem;
+}
+.card-title {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+.btn.btn-primary {
+  background-color: #b10849;
+  border-color: #b10849;
+}
